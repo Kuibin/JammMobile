@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.0.2",
+  "option_operagx_next_version": "0.0.0.3",
+  "option_operagx_game_name": "JammMobilMiligh",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "768de259-8120-4679-980d-2d26a96d3ef2",
+  "option_operagx_team_name": "Onza studio",
+  "option_operagx_team_id": "f879cee7-1a52-498b-aa58-ad096b704301",
+  "option_operagx_editUrl": "https://create.gx.games/game/768de259-8120-4679-980d-2d26a96d3ef2/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/2m0vsd/jammmobilmiligh/tracks/46243e25-9d96-44a3-804f-61d3759cdb7c/",
+  "option_operagx_publicShareUrl": "",
+}
